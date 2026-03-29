@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://surafinancia.com.co/canal/aquashield/sitemap.xml
+Sitemap: https://aquashied-creditos.cschatto.cloud/sitemap.xml
