@@ -1,0 +1,5 @@
+.git
+*.md
+.dockerignore
+aquashield-PaletaAqua_video_logoactual__v6.html
+# robots.txt y sitemap.xml NO están excluidos → se copian al contenedor
